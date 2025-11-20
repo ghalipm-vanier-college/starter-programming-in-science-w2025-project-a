@@ -1,4 +1,4 @@
-# starter-programming-in-science-w2025-project-a
+-- # starter-programming-in-science-w2025-project-a
 
 # Programming in Science – Project  
 This project focuses on using **NumPy, Pandas, Matplotlib, 3D plotting, animation**, and matrix operations used in scientific computing.
