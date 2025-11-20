@@ -10,7 +10,7 @@ Where plots or animations are required, the auto-tests verify only that the func
 
 #  Questions
 
-## (10%) Plot a Polynomial Using NumPy (`np.linspace`)
+## 1️⃣  (10%) Plot a Polynomial Using NumPy (`np.linspace`)
 Generate x-values in [-10, 10], compute  
 \$[
 y = 3x^3 - 2x^2 + x - 5
